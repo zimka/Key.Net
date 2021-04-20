@@ -3,7 +3,7 @@ import argparse
 import numpy as np
 import pickle
 from tqdm import tqdm
-import HSequences_bench.tools.aux_tools as aux
+import HSequences_bench.tools.tools_aux as aux
 import HSequences_bench.tools.geometry_tools as geo_tools
 import HSequences_bench.tools.repeatability_tools as rep_tools
 import HSequences_bench.tools.matching_tools as match_tools
